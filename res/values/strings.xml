@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">AlcoTax</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="volume">Volume(L)</string>
+    <string name="price">Price</string>
+    <string name="calc">Calculate</string>
+    <string name="alcho_prompt">Select Alcohol Type</string>
+    <string-array name = "alcho_types">
+        <item>Hard A</item>
+        <item>Beer</item>
+        <item>Wine</item>
+    </string-array>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AlcoTax</string>
+    <string name="HardA">Hard A</string>
+    <string name="wine">Wine</string>
+    <string name="beer">Beer</string>
+
+</resources>
