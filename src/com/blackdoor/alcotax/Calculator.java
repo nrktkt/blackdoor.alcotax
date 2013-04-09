@@ -5,11 +5,11 @@ import java.text.DecimalFormat;
 public class Calculator {
 	
 	private double totalPrice, currPrice;
-	private double MIN_SALES_TAX = 0.07;
-	private	double MAX_SALES_TAX = .095;
-	private double HARDA_TAX = .205;
-	private double HARDA_FLAT_TAX = 3.7708;
-	private double MAX_WINE_FLAT_TAX = .4536;
+	public static final double MIN_SALES_TAX = 0.07;
+	public static final double MAX_SALES_TAX = .095;
+	public static final double HARDA_TAX = .205;
+	public static final double HARDA_FLAT_TAX = 3.7708;
+	public static final double MAX_WINE_FLAT_TAX = .4536;
 	
 	public Calculator()
 	{
